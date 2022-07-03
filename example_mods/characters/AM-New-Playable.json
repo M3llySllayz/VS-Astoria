@@ -1,0 +1,177 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				19,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "AM-New Up"
+		},
+		{
+			"offsets": [
+				53,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "AM-New Down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "AM-New Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				83,
+				-17
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "AM-New Right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "AM-New Left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "AM-New East"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "AM-New West"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "AM-New South"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "AM-New North"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "dodgeLeft",
+			"fps": 24,
+			"name": "AM LDodge",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "dodgeRight",
+			"fps": 24,
+			"name": "AM RDodge",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "dodgeUp",
+			"fps": 24,
+			"name": "AM UDodge",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "dodgeDown",
+			"fps": 24,
+			"name": "AM DDodge",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hurt",
+			"loop": false,
+			"name": "AM Hurt"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/AM-New",
+	"position": [
+		-90,
+		310
+	],
+	"healthicon": "AMNew",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		208
+	],
+	"camera_position": [
+		200,
+		-60
+	],
+	"sing_duration": 6.1,
+	"scale": 2
+}
