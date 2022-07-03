@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Amazing Man Red New.png"><SubTexture name="AMRN Down0000" x="1015" y="199" width="169" height="198" frameX="-52" frameY="-50" frameWidth="250" frameHeight="250" />
+<SubTexture name="AMRN Down0001" x="0" y="931" width="179" height="197" frameX="-43" frameY="-51" frameWidth="250" frameHeight="250" />
+<SubTexture name="AMRN Down0002" x="1015" y="595" width="166" height="195" frameX="-57" frameY="-53" frameWidth="250" frameHeight="250" />
+<SubTexture name="AMRN Idle0000" x="861" y="225" width="152" height="224" frameX="-39" frameY="-24" frameWidth="250" frameHeight="250" />
+<SubTexture name="AMRN Idle0001" x="529" y="484" width="135" height="225" frameX="-55" frameY="-23" frameWidth="250" frameHeight="250" />
+<SubTexture name="AMRN Idle0002" x="731" y="0" width="130" height="225" frameX="-60" frameY="-23" frameWidth="250" frameHeight="250" />
+<SubTexture name="AMRN Idle0003" x="731" y="225" width="130" height="225" frameX="-60" frameY="-23" frameWidth="250" frameHeight="250" />
+<SubTexture name="AMRN Right0000" x="485" y="715" width="173" height="208" frameX="-60" frameY="-40" frameWidth="250" frameHeight="250" />
+<SubTexture name="AMRN Right0001" x="131" y="715" width="177" height="209" frameX="-46" frameY="-39" frameWidth="250" frameHeight="250" />
+<SubTexture name="AMRN Right0002" x="861" y="449" width="131" height="216" frameX="-85" frameY="-32" frameWidth="250" frameHeight="250" />
+<SubTexture name="AMRN Up0000" x="0" y="0" width="135" height="243" frameX="-37" frameY="-5" frameWidth="250" frameHeight="250" />
+<SubTexture name="AMRN Up0001" x="412" y="0" width="135" height="241" frameX="-37" frameY="-7" frameWidth="250" frameHeight="250" />
+<SubTexture name="AMRN GuitarD0000" x="1015" y="397" width="169" height="198" frameX="-52" frameY="-50" frameWidth="250" frameHeight="250" />
+<SubTexture name="AMRN Play0000" x="861" y="0" width="154" height="225" frameX="-60" frameY="-23" frameWidth="250" frameHeight="250" />
+<SubTexture name="AMRN GuitarL0000" x="547" y="0" width="184" height="231" frameX="0" frameY="-17" frameWidth="250" frameHeight="250" />
+<SubTexture name="AMRN GuitarR0000" x="658" y="715" width="173" height="208" frameX="-60" frameY="-40" frameWidth="250" frameHeight="250" />
+<SubTexture name="AMRN GuitarU0000" x="135" y="0" width="142" height="243" frameX="-37" frameY="-5" frameWidth="250" frameHeight="250" />
+<SubTexture name="AMRN South0000" x="1015" y="0" width="169" height="199" frameX="-52" frameY="-49" frameWidth="250" frameHeight="250" />
+<SubTexture name="AMRN South0001" x="179" y="931" width="179" height="197" frameX="-43" frameY="-51" frameWidth="250" frameHeight="250" />
+<SubTexture name="AMRN South0002" x="358" y="931" width="166" height="195" frameX="-57" frameY="-53" frameWidth="250" frameHeight="250" />
+<SubTexture name="AMRN West0000" x="547" y="231" width="184" height="231" frameX="0" frameY="-17" frameWidth="250" frameHeight="250" />
+<SubTexture name="AMRN West0001" x="0" y="484" width="175" height="231" frameX="-2" frameY="-17" frameWidth="250" frameHeight="250" />
+<SubTexture name="AMRN West0002" x="175" y="484" width="160" height="231" frameX="-2" frameY="-17" frameWidth="250" frameHeight="250" />
+<SubTexture name="AMRN North0000" x="277" y="0" width="135" height="243" frameX="-37" frameY="-5" frameWidth="250" frameHeight="250" />
+<SubTexture name="AMRN North0001" x="0" y="243" width="135" height="241" frameX="-37" frameY="-7" frameWidth="250" frameHeight="250" />
+<SubTexture name="AMRN East0000" x="831" y="715" width="173" height="208" frameX="-60" frameY="-40" frameWidth="250" frameHeight="250" />
+<SubTexture name="AMRN East0001" x="308" y="715" width="177" height="209" frameX="-46" frameY="-39" frameWidth="250" frameHeight="250" />
+<SubTexture name="AMRN East0002" x="0" y="715" width="131" height="216" frameX="-85" frameY="-32" frameWidth="250" frameHeight="250" />
+<SubTexture name="AMRN Left0000" x="335" y="484" width="194" height="231" frameX="0" frameY="-17" frameWidth="250" frameHeight="250" />
+<SubTexture name="AMRN Left0001" x="135" y="243" width="176" height="235" frameX="-4" frameY="-13" frameWidth="250" frameHeight="250" />
+<SubTexture name="AMRN Left0002" x="311" y="243" width="176" height="235" frameX="-4" frameY="-13" frameWidth="250" frameHeight="250" />
+</TextureAtlas>

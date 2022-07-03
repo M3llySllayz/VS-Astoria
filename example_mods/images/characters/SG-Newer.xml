@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="SG-Newer.png"><SubTexture name="sg Down0000" x="181" y="0" width="102" height="216" frameX="-61" frameY="-30" frameWidth="250" frameHeight="250" />
+<SubTexture name="sg Down0001" x="326" y="656" width="134" height="196" frameX="-25" frameY="-52" frameWidth="250" frameHeight="250" />
+<SubTexture name="sg Down0002" x="356" y="228" width="131" height="213" frameX="-21" frameY="-35" frameWidth="250" frameHeight="250" />
+<SubTexture name="sg South0000" x="283" y="0" width="102" height="216" frameX="-61" frameY="-30" frameWidth="250" frameHeight="250" />
+<SubTexture name="sg South0001" x="460" y="656" width="134" height="196" frameX="-25" frameY="-52" frameWidth="250" frameHeight="250" />
+<SubTexture name="sg South0002" x="586" y="0" width="131" height="213" frameX="-21" frameY="-35" frameWidth="250" frameHeight="250" />
+<SubTexture name="sg slice0000" x="889" y="854" width="146" height="169" frameX="-32" frameY="-77" frameWidth="250" frameHeight="250" />
+<SubTexture name="sg slice0001" x="1084" y="166" width="198" height="165" frameX="-34" frameY="-83" frameWidth="250" frameHeight="250" />
+<SubTexture name="sg slice0002" x="1084" y="0" width="199" height="166" frameX="-34" frameY="-78" frameWidth="250" frameHeight="250" />
+<SubTexture name="sg slice0003" x="385" y="0" width="201" height="215" frameX="-30" frameY="-29" frameWidth="250" frameHeight="250" />
+<SubTexture name="sg Idle0000" x="717" y="208" width="155" height="203" frameX="-15" frameY="-45" frameWidth="250" frameHeight="250" />
+<SubTexture name="sg Idle0001" x="474" y="443" width="145" height="208" frameX="-17" frameY="-40" frameWidth="250" frameHeight="250" />
+<SubTexture name="sg Idle0002" x="213" y="443" width="154" height="212" frameX="-4" frameY="-36" frameWidth="250" frameHeight="250" />
+<SubTexture name="sg Idle0003" x="717" y="411" width="155" height="203" frameX="-3" frameY="-45" frameWidth="250" frameHeight="250" />
+<SubTexture name="sg Idle0004" x="717" y="411" width="155" height="203" frameX="-3" frameY="-45" frameWidth="250" frameHeight="250" />
+<SubTexture name="sg Idle0005" x="717" y="411" width="155" height="203" frameX="-3" frameY="-45" frameWidth="250" frameHeight="250" />
+<SubTexture name="sg Left0000" x="594" y="656" width="152" height="196" frameX="-53" frameY="-40" frameWidth="250" frameHeight="250" />
+<SubTexture name="sg Left0001" x="0" y="656" width="163" height="198" frameX="-60" frameY="-38" frameWidth="250" frameHeight="250" />
+<SubTexture name="sg West0000" x="746" y="656" width="152" height="196" frameX="-53" frameY="-40" frameWidth="250" frameHeight="250" />
+<SubTexture name="sg West0001" x="163" y="656" width="163" height="198" frameX="-60" frameY="-38" frameWidth="250" frameHeight="250" />
+<SubTexture name="sg Right0000" x="913" y="374" width="142" height="178" frameX="-86" frameY="-70" frameWidth="250" frameHeight="250" />
+<SubTexture name="sg Right0001" x="913" y="0" width="171" height="187" frameX="-41" frameY="-61" frameWidth="250" frameHeight="250" />
+<SubTexture name="sg Right0002" x="195" y="854" width="163" height="177" frameX="-35" frameY="-71" frameWidth="250" frameHeight="250" />
+<SubTexture name="sg Right0003" x="521" y="854" width="184" height="173" frameX="-14" frameY="-75" frameWidth="250" frameHeight="250" />
+<SubTexture name="sg East0000" x="913" y="552" width="142" height="178" frameX="-86" frameY="-70" frameWidth="250" frameHeight="250" />
+<SubTexture name="sg East0001" x="913" y="187" width="171" height="187" frameX="-41" frameY="-61" frameWidth="250" frameHeight="250" />
+<SubTexture name="sg East0002" x="358" y="854" width="163" height="177" frameX="-35" frameY="-71" frameWidth="250" frameHeight="250" />
+<SubTexture name="sg East0003" x="705" y="854" width="184" height="173" frameX="-14" frameY="-75" frameWidth="250" frameHeight="250" />
+<SubTexture name="sg Swipe0000" x="717" y="0" width="196" height="208" frameX="-5" frameY="-33" frameWidth="250" frameHeight="250" />
+<SubTexture name="sg Swipe0001" x="107" y="228" width="142" height="214" frameX="-17" frameY="-36" frameWidth="250" frameHeight="250" />
+<SubTexture name="sg Swipe0002" x="0" y="0" width="181" height="228" frameX="-28" frameY="-21" frameWidth="250" frameHeight="250" />
+<SubTexture name="sg Swipe0003" x="0" y="443" width="213" height="213" frameX="-29" frameY="-35" frameWidth="250" frameHeight="250" />
+<SubTexture name="sg Swipe0004" x="0" y="854" width="195" height="184" frameX="-47" frameY="-64" frameWidth="250" frameHeight="250" />
+<SubTexture name="sg Up0000" x="249" y="228" width="107" height="214" frameX="-59" frameY="-32" frameWidth="250" frameHeight="250" />
+<SubTexture name="sg Up0001" x="586" y="213" width="107" height="212" frameX="-59" frameY="-34" frameWidth="250" frameHeight="250" />
+<SubTexture name="sg North0000" x="0" y="228" width="107" height="215" frameX="-59" frameY="-31" frameWidth="250" frameHeight="250" />
+<SubTexture name="sg North0001" x="367" y="443" width="107" height="212" frameX="-59" frameY="-34" frameWidth="250" frameHeight="250" />
+</TextureAtlas>
