@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"Charged",
+			"voltage",
+			[
+				0,
+				213,
+				255
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "city",
+	"difficulties": "Hard, Insane, Fun",
+	"weekCharacters": [
+		"Volt",
+		"bf",
+		""
+	],
+	"storyName": "The Antagonist",
+	"weekName": "Week V (Why are you resetting?)",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "weekD",
+	"startUnlocked": true
+}
