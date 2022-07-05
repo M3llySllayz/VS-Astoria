@@ -37,7 +37,9 @@ function opponentNoteHit(id, noteData, noteType, isSustainNote)
 function goodNoteHit(id, noteData, noteType, isSustainNote)
 	if noteType == 'Star Note' then
 		local animToPlay = '';
+		if not isSustainNote then
 		playSound('slice', 1.1);
+		end
 		if noteData == 0 then
 			animToPlay = 'attackLR';
 		elseif noteData == 1 then
