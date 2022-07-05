@@ -1,136 +1,147 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				19,
 				-20
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "AM-New Up"
+			"fps": 24,
+			"name": "AM-New Up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				53,
 				-20
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "AM-New Down"
+			"fps": 24,
+			"name": "AM-New Down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "AM-New Idle"
+			"fps": 24,
+			"name": "AM-New Idle",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
 				83,
 				-17
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "AM-New Right",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "AM-New Right"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				-10
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "AM-New Left"
+			"fps": 24,
+			"name": "AM-New Left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFTmiss",
-			"indices": [],
-			"name": "AM-New East"
+			"fps": 24,
+			"name": "AM-New East",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHTmiss",
-			"indices": [],
-			"name": "AM-New West"
+			"fps": 24,
+			"name": "AM-New West",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWNmiss",
-			"indices": [],
-			"name": "AM-New South"
+			"fps": 24,
+			"name": "AM-New South",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUPmiss",
-			"indices": [],
-			"name": "AM-New North"
+			"fps": 24,
+			"name": "AM-New North",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "dodgeLeft",
-			"fps": 24,
-			"name": "AM LDodge",
-			"indices": []
+			"indices": [],
+			"name": "AM LDodge"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "dodgeRight",
-			"fps": 24,
-			"name": "AM RDodge",
-			"indices": []
+			"indices": [],
+			"name": "AM RDodge"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "dodgeUp",
+			"indices": [],
+			"name": "AM UDodge"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
 			"fps": 24,
-			"name": "AM UDodge",
-			"indices": []
+			"anim": "dodgeDown",
+			"indices": [],
+			"name": "AM DDodge"
 		},
 		{
 			"loop": false,
@@ -138,21 +149,32 @@
 				0,
 				0
 			],
-			"anim": "dodgeDown",
+			"anim": "hurt",
 			"fps": 24,
-			"name": "AM DDodge",
+			"name": "AM Hurt",
 			"indices": []
 		},
 		{
 			"offsets": [
-				0,
-				0
+				100,
+				-20
 			],
 			"indices": [],
 			"fps": 24,
-			"anim": "hurt",
+			"anim": "attackLR",
 			"loop": false,
-			"name": "AM Hurt"
+			"name": "AM-New Attack LR"
+		},
+		{
+			"offsets": [
+				50,
+				-10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "attackUD",
+			"loop": false,
+			"name": "AM-New Attack UD"
 		}
 	],
 	"no_antialiasing": false,
