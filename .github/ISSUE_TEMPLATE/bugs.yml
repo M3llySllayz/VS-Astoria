@@ -18,19 +18,9 @@ body:
       required: false
 
   - type: dropdown
-    id: modding
-    attributes:
-      label: "Are you modding a build from source or with Lua?"
-      options:
-        - Lua
-        - Source
-    validations:
-      required: true
-
-  - type: dropdown
     id: btarget
     attributes:
-      label: "What is your build target?"
+      label: "What platform are you on?"
       options:
         - "Windows"
         - "Linux"
