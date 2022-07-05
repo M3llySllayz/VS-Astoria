@@ -61,7 +61,7 @@ class FreeplayState extends MusicBeatState
 
 		#if desktop
 		// Updating Discord Rich Presence
-		DiscordClient.changePresence("In the Menus", null);
+		DiscordClient.changePresence("Amazing Engine", "In Freeplay", 'discord_astoria');
 		#end
 
 		for (i in 0...WeekData.weeksList.length) {
@@ -388,7 +388,10 @@ class FreeplayState extends MusicBeatState
 			}else{
 				LoadingState.loadAndSwitchState(new PlayState());
 			}
-
+			if (FlxG.keys.pressed.COMMA){
+				PlayState.SONG = Song.loadFromJson('amazing-meme-hard', 'amazing-meme');
+				LoadingState.loadAndSwitchState(new PlayState()); //frickin meme song took me like 6 hrs to figure out
+			}
 			FlxG.sound.music.volume = 0;
 					
 			destroyFreeplayVocals();

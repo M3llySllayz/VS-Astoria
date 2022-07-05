@@ -9,6 +9,7 @@ import flixel.system.FlxSound;
 #if sys
 import sys.io.File;
 import sys.FileSystem;
+import flixel.tweens.FlxTween;
 #else
 import openfl.utils.Assets;
 #end
@@ -137,5 +138,8 @@ class CoolUtil
 		#else
 		FlxG.openURL(site);
 		#end
+	}
+	public static function cameraZoom(target, zoomLevel, speed, style, type) {
+		FlxTween.tween(target, {zoom: zoomLevel}, speed, {ease: style, type: type});
 	}
 }
