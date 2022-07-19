@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "dm idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				-14
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "dm down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				13
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "dm up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-12,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "dm left"
+		},
+		{
+			"offsets": [
+				44,
+				-5
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "dm right"
+		},
+		{
+			"offsets": [
+				43,
+				-3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "dm east"
+		},
+		{
+			"offsets": [
+				-20,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "dm west"
+		},
+		{
+			"offsets": [
+				-10,
+				-14
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "dm south"
+		},
+		{
+			"offsets": [
+				-7,
+				18
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "dm north"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "dm oof"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathConfirm",
+			"loop": false,
+			"name": "dm die loop"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathLoop",
+			"loop": false,
+			"name": "dm die loop"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Donut Man New",
+	"position": [
+		0,
+		310
+	],
+	"healthicon": "Donut",
+	"flip_x": false,
+	"healthbar_colors": [
+		96,
+		62,
+		0
+	],
+	"camera_position": [
+		-120,
+		-60
+	],
+	"sing_duration": 6.1,
+	"scale": 2
+}
