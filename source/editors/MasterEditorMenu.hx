@@ -26,7 +26,8 @@ class MasterEditorMenu extends MusicBeatState
 		'Dialogue Editor',
 		'Dialogue Portrait Editor',
 		'Character Editor',
-		'Chart Editor'
+		'Chart Editor',
+		'Stage Editor'
 	];
 	private var grpTexts:FlxTypedGroup<Alphabet>;
 	private var directories:Array<String> = [null];
@@ -40,7 +41,7 @@ class MasterEditorMenu extends MusicBeatState
 		FlxG.camera.bgColor = FlxColor.BLACK;
 		#if desktop
 		// Updating Discord Rich Presence
-		DiscordClient.changePresence("Editors Main Menu", null);
+		DiscordClient.changePresence("Amazing Engine", "Editor Main Menu", "chart", "discord_astoria");
 		#end
 
 		var bg:FlxSprite = new FlxSprite().loadGraphic(Paths.image('menuDesat'));
@@ -123,8 +124,11 @@ class MasterEditorMenu extends MusicBeatState
 					LoadingState.loadAndSwitchState(new DialogueCharacterEditorState(), false);
 				case 'Dialogue Editor':
 					LoadingState.loadAndSwitchState(new DialogueEditorState(), false);
-				case 'Chart Editor'://felt it would be cool maybe
+				case 'Chart Editor'://felt it would be cool maybe -u stupid fuck-melly
 					LoadingState.loadAndSwitchState(new ChartingState(), false);
+				case 'Stage Editor':
+					PlayState.SONG = Song.loadFromJson('stageEditor', 'stageeditor');
+					LoadingState.loadAndSwitchState(new PlayState());
 			}
 			FlxG.sound.music.volume = 0;
 			#if PRELOAD_ALL
